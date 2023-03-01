@@ -1,1 +1,2 @@
-xshjsahxshjsjhsajsabasbsabsabsabj
+this is to understand how to push a code from local repo to remote repo 
+
